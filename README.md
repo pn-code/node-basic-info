@@ -3,7 +3,7 @@
 Basic web server created through node documentation.
 
 Includes: 
-    - Index Page,
-    - Contact Page,
-    - About Page,
-    - 404 Page
+- Index Page,
+- Contact Page,
+- About Page,
+- 404 Page
